@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+
+    <string name="movies">Movies</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="favourites">Favourites</string>
+    <string name="movie_cover">Movie Cover</string>
+    <string name="overview">Overview</string>
+    <string name="avg_vote">"Average Vote: "</string>
+    <string name="change">Change to Indonesia</string>
+    <string name="released_at">"Released at: "</string>
+    <string name="movie_saved">Movie Saved</string>
+    <string name="tv_saved">TV Show Saved</string>
+    <string name="your_saved_movies">Your Saved Movies</string>
+    <string name="your_saved_tv_show">Your Saved TV Show</string>
+</resources>

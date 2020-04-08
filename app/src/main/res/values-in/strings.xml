@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="change">Ganti ke Bahasa Inggris</string>
+    <string name="avg_vote">"Voting Rata Rata: "</string>
+    <string name="movie_cover">Sampul FIlm</string>
+    <string name="movies">Film</string>
+    <string name="overview">Sinopsis</string>
+    <string name="tv_shows">Acara TV</string>
+    <string name="released_at">"Dirilis Pada: "</string>
+    <string name="favourites">Favorit</string>
+    <string name="movie_saved">Film Disimpan</string>
+    <string name="tv_saved">Acara Tv Disimpan</string>
+</resources>
