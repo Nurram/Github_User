@@ -13,4 +13,8 @@
     <string name="tv_saved">TV Show Saved</string>
     <string name="your_saved_movies">Your Saved Movies</string>
     <string name="your_saved_tv_show">Your Saved TV Show</string>
+    <string name="search">Search</string>
+    <string name="enter_the_title">Enter the title</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">TV Show</string>
 </resources>

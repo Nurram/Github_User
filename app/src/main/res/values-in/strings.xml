@@ -11,4 +11,10 @@
     <string name="favourites">Favorit</string>
     <string name="movie_saved">Film Disimpan</string>
     <string name="tv_saved">Acara Tv Disimpan</string>
+    <string name="enter_the_title">Masukan judul</string>
+    <string name="movie">Film</string>
+    <string name="search">Cari</string>
+    <string name="tv_show">Acara TV</string>
+    <string name="your_saved_movies">Film yang kamu simpan</string>
+    <string name="your_saved_tv_show">Acara TV yang kamu simpan</string>
 </resources>
