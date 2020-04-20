@@ -1,21 +1,50 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.nurram.moviecatalogue">
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.usersapp">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
+    <permission
+        android:name="com.nurram.githubuser.READ_DATABASE"
+        android:protectionLevel="normal" />
+    <permission
+        android:name="com.nurram.githubuser.WRITE_DATABASE"
+        android:protectionLevel="normal" />
+
     <application
         android:allowBackup="true"
+        android:fullBackupContent="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".view.SearchActivity"></activity>
+        <provider
+            android:name="com.nurram.githubuser.UserContentProvider"
+            android:authorities="com.nuram.githubuser"
+            android:enabled="true"
+            android:exported="true"
+            android:readPermission="com.nurram.githubuser.READ_DATABASE"
+            android:writePermission="com.nurram.githubuser.WRITE_DATABASE" />
+
+        <receiver
+            android:name="com.nurram.githubuser.DailyReminderReceiver"
+            android:enabled="true"
+            android:exported="true"
+            tools:ignore="ExportedReceiver" />
+
         <activity
-            android:name=".view.MovieDetailActivity"
-            android:theme="@style/DetailTheme" />
-        <activity android:name=".view.MainActivity">
+            android:name="com.nurram.githubuser.view.SettingsActivity"
+            android:label="@string/setting" />
+        <activity
+            android:name="com.nurram.githubuser.view.UserDetailActivity"
+            android:label="@string/detail_activity" />
+        <activity
+            android:name="com.nurram.githubuser.view.FavouriteActivity"
+            android:label="@string/favourites"
+            android:parentActivityName="com.nurram.githubuser.view.MainActivity" />
+        <activity android:name="com.nurram.githubuser.view.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

@@ -1,20 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Katalog Film</string>
+    <string name="app_name">Github User</string>
     <string name="change">Ganti ke Bahasa Inggris</string>
-    <string name="avg_vote">"Voting Rata Rata: "</string>
-    <string name="movie_cover">Sampul FIlm</string>
-    <string name="movies">Film</string>
-    <string name="overview">Sinopsis</string>
-    <string name="tv_shows">Acara TV</string>
-    <string name="released_at">"Dirilis Pada: "</string>
+    <string name="user_image">Gambar User</string>
     <string name="favourites">Favorit</string>
-    <string name="movie_saved">Film Disimpan</string>
-    <string name="tv_saved">Acara Tv Disimpan</string>
-    <string name="enter_the_title">Masukan judul</string>
-    <string name="movie">Film</string>
-    <string name="search">Cari</string>
-    <string name="tv_show">Acara TV</string>
-    <string name="your_saved_movies">Film yang kamu simpan</string>
-    <string name="your_saved_tv_show">Acara TV yang kamu simpan</string>
+    <string name="user_saved">User Telah Disimpan</string>
+    <string name="enter_the_username">Masukan username</string>
+    <string name="favourite">Cari</string>
+    <string name="your_saved_users">User yang kamu simpan</string>
+    <string name="no_result">Hasil Pencarian Kamu Tidak Ditemukan</string>
+    <string name="setting">Pengaturan</string>
+    <string name="following">Mengikuti</string>
+    <string name="followers">Pengikut</string>
+    <string name="comeback">Kembali</string>
+    <string name="check_user">Coba cek pengguna ini!</string>
 </resources>

@@ -1,20 +1,21 @@
 <resources>
-    <string name="app_name">Movie Catalogue</string>
-
-    <string name="movies">Movies</string>
-    <string name="tv_shows">TV Shows</string>
+    <string name="app_name">Github User</string>
+    <string name="setting_daily" translatable="false">Setting Daily</string>
+    <string name="detail_activity" translatable="false">Detail Activity</string>
     <string name="favourites">Favourites</string>
-    <string name="movie_cover">Movie Cover</string>
-    <string name="overview">Overview</string>
-    <string name="avg_vote">"Average Vote: "</string>
+    <string name="user_image">User Image</string>
     <string name="change">Change to Indonesia</string>
-    <string name="released_at">"Released at: "</string>
-    <string name="movie_saved">Movie Saved</string>
-    <string name="tv_saved">TV Show Saved</string>
-    <string name="your_saved_movies">Your Saved Movies</string>
-    <string name="your_saved_tv_show">Your Saved TV Show</string>
-    <string name="search">Search</string>
-    <string name="enter_the_title">Enter the title</string>
-    <string name="movie">Movie</string>
-    <string name="tv_show">TV Show</string>
+    <string name="user_saved">User Saved</string>
+    <string name="your_saved_users">Your Saved Users</string>
+    <string name="favourite">Search</string>
+    <string name="enter_the_username">Enter the username</string>
+    <string name="no_result">No Result For Your Query</string>
+    <string name="enable_daily" translatable="false">Enable Daily Reminder</string>
+    <string name="setting">Setting</string>
+    <string name="comeback">Comeback!</string>
+    <string name="check_user">Check this users now!</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="share" translatable="false">Share</string>
+
 </resources>

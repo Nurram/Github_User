@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UsersApp</string>
+    <string name="enter_the_username">Enter the username</string>
+    <string name="no_result">No Result For Your Query</string>
+    <string name="change">Change to Indonesia</string>
+    <string name="setting">Setting</string>
+    <string name="favourite">Search</string>
+    <string name="user_image">User Image</string>
+</resources>
