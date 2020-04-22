@@ -3,7 +3,7 @@ This applicaion are developed to fulfill Belajar Fundamental Aplikasi Android by
 
 **Screenshtot**
 
-<img src="https://i.ibb.co/9rjnMrB/Screenshot-20200422-173145-Github-User.jpg" alt="Screenshot-20200422-173145-Github-User" border="0" height="440" width="300">  <img src="https://i.ibb.co/yRkVsFX/Screenshot-20200422-173157-Github-User.jpg" alt="Screenshot-20200422-173157-Github-User" border="0" height="440" width="300">
+<img src="https://i.ibb.co/9rjnMrB/Screenshot-20200422-173145-Github-User.jpg" alt="Screenshot-20200422-173145-Github-User" border="0" height="500" width="300">  <img src="https://i.ibb.co/yRkVsFX/Screenshot-20200422-173157-Github-User.jpg" alt="Screenshot-20200422-173157-Github-User" border="0" height="500" width="300">
 
 
 
